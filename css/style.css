@@ -291,7 +291,7 @@ Intro
 	color:#ffa000;
 	text-align:center;
 	font-weight: 700;
-	font-size: 60px;
+	font-size: 50px;
 	line-height:1.1em;
 	padding-top:30px;
 	text-transform: uppercase;
@@ -299,7 +299,7 @@ Intro
 }
 
 .line-spacer {
-	width: 31%;
+	width: 26%;
 	
 	margin:0 auto;
 	margin-top: 20px;
